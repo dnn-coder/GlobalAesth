@@ -558,7 +558,7 @@ footer {
         padding: 0 10px;
     }
     .contenido-header>img {
-        width: 320px;
+        width: 300px;
     }
     .enlaces-header {
         position: fixed;
@@ -594,7 +594,7 @@ footer {
     }
     /* questions  */
     .questions>img {
-        width: 300px;
+        width: 350px;
     }
     .numbers .number {
         width: 95%;
